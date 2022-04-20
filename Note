@@ -1,0 +1,4 @@
+
+1 set root dir for conversion file like src
+2 set out dir for where we want to hold converted files like public
+note:- 3 if we create file on root then whole directory destroyed so we use include and pass dir name that we want to convert like src
